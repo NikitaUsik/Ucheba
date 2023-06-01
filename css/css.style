@@ -1,6 +1,6 @@
 <style type="text/css">
   body {
-   background-image:url("back.jpg");
+   background-color: #fdf5e6;
    background-size: cover;
    background-position: center;
    background-repeat:repeat;
